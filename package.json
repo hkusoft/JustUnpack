@@ -1,0 +1,17 @@
+{
+  "name": "JustUnpack",
+  "version": "1.0.0",
+  "description": "A batch file unpacking utility",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Unpack",
+    "Just Unpack"
+  ],
+  "author": "David",
+  "license": "CC0-1.0"
+  
+}
